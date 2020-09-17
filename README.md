@@ -1,2 +1,2 @@
 # computational-biology
-* Code of online Computational Biology lectures that I give on youtube
+* Codes of online Computational Biology lectures that I give on youtube
